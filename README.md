@@ -1,17 +1,15 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=ergunsahe&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-<!--
-**ergunsahe/ergunsahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ergunsahe" alt="ergunsahe" /> </p>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ey%C3%BCp-ergunsah-0328581b4/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Ergunsah's github stats](https://github-readme-stats.vercel.app/api?username=ergunsahe&count_private=true&theme=radical)
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+
+
+- 🔭 I’m currently working on NodeJs,MongoDB and DJango
+- 🌱 I’m currently learning DJango
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything that you want to learn
+
